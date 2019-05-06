@@ -1,4 +1,4 @@
-## Solutions of the 5th session Open Machine Learning Course [mlcourse.ai](https://mlcourse.ai) 
+## Solution of the 5th session Open Machine Learning Course [mlcourse.ai](https://mlcourse.ai) 
 
 ![ODS stickers](https://github.com/Yorko/mlcourse.ai/blob/master/img/ods_stickers.jpg)
 
